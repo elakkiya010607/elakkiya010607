@@ -1,24 +1,42 @@
-👋, I'm Elakkiya
+<p align="center">
+  <h1>👋, I'm Elakkiya</h1>
+  <h3>💻 IT Student | 🎨 UI/UX Enthusiast | 🧪 Future Software Tester</h3>
+</p>
 
-💻 Information Technology Student | 🎨 UI/UX Enthusiast | 🧪 Future Software Tester
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=1200&color=00FF7F&center=true&vCenter=true&width=460&lines=UI%2FUX+Designer;Software+Testing+Engineer;Web+Developer" />
+</p>
 
-<details>
-<summary>Read more ⬇️</summary>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header" />
+</p>
 
-## About Me
-- 🎓 Information Technology Student
-- 💼 Full Stack Development Intern @ CodeAlpha (in association with Techforge Solutions)
-- 🌱 Currently building web development projects using HTML, CSS, JavaScript, and Java
-- 📍 Training at Maxpro Infotech, Salem, Tamil Nadu
+---
+
+## 📝 About Me
+- 👨‍🎓 B.Tech Information Technology Student
+- 🎨 Passionate about **UI/UX Design**
+- 🧪 Learning **Software Testing & QA**
+- 💻 Interested in **Web Development & Real Projects**
+- 📄 Improving communication & problem-solving daily
+- 🎯 Goal: Become a **Software Testing Engineer**
+
+---
 
 ## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mongodb,nodejs,react,git,github&perline=5" />
+</p>
+
+---
+
+## 🚀 Projects
+### 🌟 My Work
+- Dictionary App - API + Node.js + MongoDB
+- Leave Management System
+- Movie Rating App
+
+---
 
 ## 📚 Currently Learning
 - 🧪 Software Testing (Manual + Basics of Automation)
@@ -27,21 +45,35 @@
 
 ---
 
-## 📊 GitHub Stats
-![Elakki's GitHub stats](https://github-readme-stats.vercel.app/api?username=elakkiya010607&show_icons=true&theme=dark)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=elakkiya-art&show_icons=true&theme=dark" alt="elakkiya-art's stats" />
+</p>
 
-## 🔥 Contribution Graph
-![Elakki's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=elakkiya010607&theme=react-dark)
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elakkiya-art&theme=react-dark" alt="elakkiya-art's contribution graph" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elakkiya-m-095a5532b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elakkiya010607@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/elakkiya-m-095a5532b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:elakkiya010607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👀 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=elakkiya010607&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elakkiya-art&label=Profile+Views&color=00FF7F&style=for-the-badge" />
+</p>
 
-</details>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer" />
+</p>
